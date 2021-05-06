@@ -17,10 +17,11 @@ namespace Discount.Grpc.Services
         private readonly IMapper _mapper;
         private readonly ILogger<DiscountService> _logger;
 
-        public DiscountService(IDiscountRepository repository, ILogger<DiscountService> logger)
+        public DiscountService(IDiscountRepository repository,IMapper mapper ,ILogger<DiscountService> logger)
         {
             _repository = repository;
             _logger = logger;
+            _mapper = mapper;
         }
 
         public override async Task<CouponModel> GetDiscount(GetDiscountRequest request, ServerCallContext context)
