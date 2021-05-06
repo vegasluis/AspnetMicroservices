@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <DockerComposeProjectPath>..\..\..\docker-compose.dcproj</DockerComposeProjectPath>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..</DockerfileContext>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,6 +15,7 @@
     <PackageReference Include="automapper.extensions.microsoft.dependencyinjection" Version="8.1.1" />
     <PackageReference Include="Grpc.AspNetCore" Version="2.37.0" />
     <PackageReference Include="Dapper" Version="2.0.90" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.13" />
     <PackageReference Include="Npgsql" Version="6.0.0-preview3" />
   </ItemGroup>
 
