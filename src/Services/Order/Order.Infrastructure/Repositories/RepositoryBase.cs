@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Order.Application.Contracts.Persistence;
 using Order.Domain.Common;
+using Order.Infrastructure.Persistence;
 using System;
 using System.Collections.Generic;
 using System.Linq;

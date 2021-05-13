@@ -5,6 +5,7 @@ using Order.Application.Contracts.Infastructure;
 using Order.Application.Contracts.Persistence;
 using Order.Application.Models;
 using Order.Infrastructure.Mail;
+using Order.Infrastructure.Persistence;
 using Order.Infrastructure.Repositories;
 
 namespace Order.Infrastructure

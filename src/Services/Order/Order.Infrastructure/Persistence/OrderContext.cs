@@ -4,7 +4,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Order.Infrastructure
+namespace Order.Infrastructure.Persistence
 {
     public class OrderContext : DbContext
     {
@@ -21,11 +21,11 @@ namespace Order.Infrastructure
                 {
                     case EntityState.Added:
                         entry.Entity.CreatedDate = DateTime.Now;
-                        entry.Entity.CreatedBy = "swn";
+                        entry.Entity.CreatedBy = "ruizl";
                         break;
                     case EntityState.Modified:
                         entry.Entity.LastModifiedDate = DateTime.Now;
-                        entry.Entity.LastModifiedBy = "swn";
+                        entry.Entity.LastModifiedBy = "ruizl";
                         break;
                 }
             }

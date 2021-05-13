@@ -5,9 +5,6 @@ using Order.Application.Contracts.Infastructure;
 using Order.Application.Contracts.Persistence;
 using Order.Application.Models;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
