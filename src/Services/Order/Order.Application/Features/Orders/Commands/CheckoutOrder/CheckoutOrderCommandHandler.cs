@@ -39,10 +39,11 @@ namespace Order.Application.Features.Orders.Commands.CheckoutOrder
 
         private async Task SendMail(Domain.Entities.Order order)
         {
-            var email = new Email() { To = "ruizluis41@hotmail.com", Body = $"Order was created.", Subject = "Order was created" };
+            var email = new Email() { To = "luisruiz11@outlook.com", Body = $"Order was created.", Subject = "Order was created"};
             try
             {
                 await _emailService.SendEmail(email);
+                _logger.LogInformation($"Order was successfully created.");
             }
             catch (Exception ex)
             {

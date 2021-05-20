@@ -46,8 +46,8 @@ namespace Order.API
             services.AddMassTransitHostedService();
 
             // General Configuration
-            //services.AddAutoMapper(typeof(Startup));
-            //services.AddScoped<BasketCheckoutConsumer>();
+            services.AddAutoMapper(typeof(Startup));
+            services.AddScoped<BasketCheckoutConsumer>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

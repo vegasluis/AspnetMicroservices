@@ -40,6 +40,7 @@ namespace Basket.Api
             services.AddScoped<DiscountGrpcService>();
 
             // MassTransit-RabbitMQ Configuration
+            
             services.AddMassTransit(config => {
                 config.UsingRabbitMq((ctx, cfg) => {
                     cfg.Host(Configuration["EventBusSettings:HostAddress"]);
