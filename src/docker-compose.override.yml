@@ -88,7 +88,6 @@ services:
     ports:
       - "8001:80"
 
-
   discount.api:
     container_name: discount.api
     environment:
@@ -99,7 +98,6 @@ services:
     ports:
       - "8002:80"
 
-
   discount.grpc:
     container_name: discount.grpc
     environment:
@@ -109,7 +107,6 @@ services:
        - discountdb
     ports:
       - "8003:80"
-
 
   order.api:
     container_name: order.api
@@ -123,3 +120,14 @@ services:
     ports:
       - "8004:80"
 
+  ocelotapigw:
+    container_name: ocelotapigw
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - catalog.api
+      - basket.api
+      - discount.grpc
+      - order.api
+    ports:
+      - "8010:80"
