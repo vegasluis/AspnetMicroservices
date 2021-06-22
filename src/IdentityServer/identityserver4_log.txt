@@ -1,0 +1,712 @@
+2021-06-22 10:19:27.736 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 10:19:29.092 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 10:19:29.094 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 10:19:29.094 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 10:19:29.094 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 10:19:29.095 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 10:19:29.095 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 10:19:31.915 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 10:19:31.918 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 10:19:31.919 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 10:19:31.919 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 10:19:31.920 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 10:19:31.922 -07:00 [DBG] Error Url: /home/error
+2021-06-22 10:19:31.926 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 10:19:31.961 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:19:31.980 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:23:05.703 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 10:23:06.256 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 10:23:06.257 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 10:23:06.257 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 10:23:06.257 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 10:23:06.258 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 10:23:06.258 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 10:23:47.469 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 10:23:48.033 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 10:23:48.034 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 10:23:48.034 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 10:23:48.035 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 10:23:48.035 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 10:23:48.035 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 10:24:42.182 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 10:24:42.184 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 10:24:42.185 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 10:24:42.185 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 10:24:42.187 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 10:24:42.189 -07:00 [DBG] Error Url: /home/error
+2021-06-22 10:24:42.195 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 10:24:42.223 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:42.243 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:42.768 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:47.756 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:47.760 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:47.766 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:49.813 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:49.827 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:49.836 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:50.411 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:50.414 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:50.416 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:51.268 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:51.271 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:51.279 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:52.334 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:52.338 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 10:24:52.340 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:10:48.656 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 11:10:49.233 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 11:10:49.234 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 11:10:49.235 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 11:10:49.235 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 11:10:49.235 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 11:10:49.235 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 11:10:52.071 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 11:10:52.073 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 11:10:52.073 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 11:10:52.074 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 11:10:52.075 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 11:10:52.079 -07:00 [DBG] Error Url: /home/error
+2021-06-22 11:10:52.088 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 11:10:52.128 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:10:52.144 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:10:52.613 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:10:52.613 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:10:52.613 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:10:52.620 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:10:52.629 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:10:52.632 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:11:20.184 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:11:20.188 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:11:20.212 -07:00 [INF] AuthenticationScheme: idsrv was challenged.
+2021-06-22 11:11:20.235 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:11:20.239 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:11:45.842 -07:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2021-06-22 11:11:45.855 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:11:45.857 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:17:45.939 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 11:17:46.585 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 11:17:46.587 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 11:17:46.588 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 11:17:46.588 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 11:17:46.589 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 11:17:46.590 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 11:17:50.194 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 11:17:50.196 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 11:17:50.197 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 11:17:50.198 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 11:17:50.200 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 11:17:50.201 -07:00 [DBG] Error Url: /home/error
+2021-06-22 11:17:50.207 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 11:17:50.244 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:17:50.255 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:18:11.667 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 11:18:12.240 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 11:18:12.242 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 11:18:12.242 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 11:18:12.242 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 11:18:12.242 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 11:18:12.243 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 11:18:15.687 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 11:18:15.689 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 11:18:15.690 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 11:18:15.691 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 11:18:15.698 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 11:18:15.699 -07:00 [DBG] Error Url: /home/error
+2021-06-22 11:18:15.711 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 11:18:15.741 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:18:15.755 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:07.893 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 11:19:08.459 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 11:19:08.460 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 11:19:08.461 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 11:19:08.461 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 11:19:08.462 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 11:19:08.462 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 11:19:11.707 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 11:19:11.709 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 11:19:11.711 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 11:19:11.712 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 11:19:11.718 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 11:19:11.721 -07:00 [DBG] Error Url: /home/error
+2021-06-22 11:19:11.727 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 11:19:11.755 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:11.767 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.070 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.071 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.076 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.083 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.124 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.124 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.125 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.125 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.127 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.130 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.140 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.142 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.239 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:12.243 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:15.827 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:15.832 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:15.856 -07:00 [INF] AuthenticationScheme: idsrv was challenged.
+2021-06-22 11:19:15.874 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:19:15.875 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:20:08.518 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 11:20:09.090 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 11:20:09.091 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 11:20:09.091 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 11:20:09.091 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 11:20:09.091 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 11:20:09.092 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 11:20:26.550 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 11:20:27.111 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 11:20:27.112 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 11:20:27.113 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 11:20:27.113 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 11:20:27.114 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 11:20:27.114 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 11:20:55.744 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 11:20:55.746 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 11:20:55.748 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 11:20:55.749 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 11:20:55.750 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 11:20:55.760 -07:00 [DBG] Error Url: /home/error
+2021-06-22 11:20:55.768 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 11:20:55.796 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:20:55.808 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:23:46.376 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:23:46.379 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:23:46.406 -07:00 [INF] AuthenticationScheme: idsrv was challenged.
+2021-06-22 11:23:46.427 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:23:46.433 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:27:41.058 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 11:27:41.658 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 11:27:41.658 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 11:27:41.659 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 11:27:41.659 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 11:27:41.660 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 11:27:41.660 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 11:27:45.782 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 11:27:45.786 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 11:27:45.787 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 11:27:45.788 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 11:27:45.795 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 11:27:45.800 -07:00 [DBG] Error Url: /home/error
+2021-06-22 11:27:45.810 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 11:27:45.845 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 11:27:45.861 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 12:06:32.059 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 12:06:32.062 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 12:06:32.088 -07:00 [INF] AuthenticationScheme: idsrv was challenged.
+2021-06-22 12:06:32.109 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 12:06:32.116 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 12:06:35.061 -07:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2021-06-22 12:06:35.066 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 12:06:35.067 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 12:07:29.899 -07:00 [DBG] CORS request made for path: /Account/Login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2021-06-22 12:07:29.902 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 12:07:29.909 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 12:07:29.929 -07:00 [DBG] Augmenting SignInContext
+2021-06-22 12:07:29.931 -07:00 [DBG] Adding idp claim with value: local
+2021-06-22 12:07:29.932 -07:00 [DBG] Adding amr claim with value: pwd
+2021-06-22 12:07:29.936 -07:00 [DBG] Adding auth_time claim with value: 1624388849
+2021-06-22 12:07:29.941 -07:00 [INF] idsrv was not authenticated. Failure message: Unprotect ticket failed
+2021-06-22 12:07:29.971 -07:00 [INF] AuthenticationScheme: idsrv signed in.
+2021-06-22 12:19:36.724 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 12:19:37.273 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 12:19:37.274 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 12:19:37.275 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 12:19:37.276 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 12:19:37.277 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 12:19:37.277 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 12:19:42.594 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 12:19:42.597 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 12:19:42.598 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 12:19:42.599 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 12:19:42.600 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 12:19:42.608 -07:00 [DBG] Error Url: /home/error
+2021-06-22 12:19:42.612 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 12:20:34.284 -07:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2021-06-22 12:20:34.296 -07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2021-06-22 12:20:34.299 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2021-06-22 12:20:34.304 -07:00 [DBG] Start discovery request
+2021-06-22 12:21:00.810 -07:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2021-06-22 12:21:00.815 -07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2021-06-22 12:21:00.825 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2021-06-22 12:21:00.833 -07:00 [DBG] Start discovery request
+2021-06-22 12:21:26.409 -07:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2021-06-22 12:21:26.415 -07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2021-06-22 12:21:26.419 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2021-06-22 12:21:26.424 -07:00 [DBG] Start discovery request
+2021-06-22 12:21:38.802 -07:00 [DBG] Request path /connect/token matched to endpoint type Token
+2021-06-22 12:21:38.814 -07:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2021-06-22 12:21:38.817 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2021-06-22 12:21:38.832 -07:00 [DBG] Start token request.
+2021-06-22 12:21:38.897 -07:00 [DBG] Start client validation
+2021-06-22 12:21:38.903 -07:00 [DBG] Start parsing Basic Authentication secret
+2021-06-22 12:21:38.906 -07:00 [DBG] Start parsing for secret in post body
+2021-06-22 12:21:38.913 -07:00 [DBG] Parser found secret: PostBodySecretParser
+2021-06-22 12:21:38.913 -07:00 [DBG] Secret id found: movieClient
+2021-06-22 12:21:39.385 -07:00 [FTL] Unhandled exception: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+2021-06-22 12:21:39.434 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.MutualTlsEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-22 14:14:04.387 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 14:14:04.975 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 14:14:04.977 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 14:14:04.977 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 14:14:04.978 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 14:14:04.978 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 14:14:04.979 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 14:14:28.917 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 14:14:29.497 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 14:14:29.498 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 14:14:29.499 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 14:14:29.499 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 14:14:29.500 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 14:14:29.503 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 14:14:34.245 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 14:14:34.247 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 14:14:34.248 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 14:14:34.249 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 14:14:34.250 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 14:14:34.257 -07:00 [DBG] Error Url: /home/error
+2021-06-22 14:14:34.262 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 14:16:22.953 -07:00 [DBG] Request path /connect/token matched to endpoint type Token
+2021-06-22 14:16:22.965 -07:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2021-06-22 14:16:22.968 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2021-06-22 14:16:22.974 -07:00 [DBG] Start token request.
+2021-06-22 14:16:22.978 -07:00 [DBG] Start client validation
+2021-06-22 14:16:22.983 -07:00 [DBG] Start parsing Basic Authentication secret
+2021-06-22 14:16:22.985 -07:00 [DBG] Start parsing for secret in post body
+2021-06-22 14:16:22.991 -07:00 [DBG] Parser found secret: PostBodySecretParser
+2021-06-22 14:16:22.993 -07:00 [DBG] Secret id found: catalogAPI
+2021-06-22 14:16:23.236 -07:00 [FTL] Unhandled exception: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+2021-06-22 14:16:23.257 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.MutualTlsEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-22 14:16:40.754 -07:00 [DBG] Request path /connect/token matched to endpoint type Token
+2021-06-22 14:16:40.758 -07:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2021-06-22 14:16:40.763 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2021-06-22 14:16:40.768 -07:00 [DBG] Start token request.
+2021-06-22 14:16:40.768 -07:00 [DBG] Start client validation
+2021-06-22 14:16:40.770 -07:00 [DBG] Start parsing Basic Authentication secret
+2021-06-22 14:16:40.775 -07:00 [DBG] Start parsing for secret in post body
+2021-06-22 14:16:40.776 -07:00 [DBG] Parser found secret: PostBodySecretParser
+2021-06-22 14:16:40.777 -07:00 [DBG] Secret id found: catalogAPI
+2021-06-22 14:16:40.857 -07:00 [FTL] Unhandled exception: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+2021-06-22 14:16:40.875 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.MutualTlsEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-22 14:18:28.512 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 14:18:29.153 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 14:18:29.154 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 14:18:29.154 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 14:18:29.155 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 14:18:29.155 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 14:18:29.156 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 14:18:38.536 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 14:18:39.080 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 14:18:39.082 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 14:18:39.083 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 14:18:39.083 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 14:18:39.084 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 14:18:39.085 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 14:18:49.213 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 14:18:49.215 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 14:18:49.216 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 14:18:49.216 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 14:18:49.219 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 14:18:49.221 -07:00 [DBG] Error Url: /home/error
+2021-06-22 14:18:49.227 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 14:21:17.449 -07:00 [DBG] Request path /connect/token matched to endpoint type Token
+2021-06-22 14:21:17.470 -07:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2021-06-22 14:21:17.477 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2021-06-22 14:21:17.489 -07:00 [DBG] Start token request.
+2021-06-22 14:21:17.495 -07:00 [DBG] Start client validation
+2021-06-22 14:21:17.505 -07:00 [DBG] Start parsing Basic Authentication secret
+2021-06-22 14:21:17.508 -07:00 [DBG] Start parsing for secret in post body
+2021-06-22 14:21:17.517 -07:00 [DBG] Parser found secret: PostBodySecretParser
+2021-06-22 14:21:17.518 -07:00 [DBG] Secret id found: catalogAPI
+2021-06-22 14:21:17.782 -07:00 [FTL] Unhandled exception: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+2021-06-22 14:21:17.834 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.MutualTlsEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-22 14:21:39.470 -07:00 [DBG] Request path /connect/token matched to endpoint type Token
+2021-06-22 14:21:39.478 -07:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2021-06-22 14:21:39.482 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2021-06-22 14:21:39.490 -07:00 [DBG] Start token request.
+2021-06-22 14:21:39.493 -07:00 [DBG] Start client validation
+2021-06-22 14:21:39.496 -07:00 [DBG] Start parsing Basic Authentication secret
+2021-06-22 14:21:39.498 -07:00 [DBG] Start parsing for secret in post body
+2021-06-22 14:21:39.500 -07:00 [DBG] Parser found secret: PostBodySecretParser
+2021-06-22 14:21:39.504 -07:00 [DBG] Secret id found: catalogClient
+2021-06-22 14:21:39.596 -07:00 [FTL] Unhandled exception: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+2021-06-22 14:21:39.630 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.MutualTlsEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-22 14:22:01.640 -07:00 [DBG] Request path /connect/token matched to endpoint type Token
+2021-06-22 14:22:01.660 -07:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2021-06-22 14:22:01.663 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2021-06-22 14:22:01.674 -07:00 [DBG] Start token request.
+2021-06-22 14:22:01.677 -07:00 [DBG] Start client validation
+2021-06-22 14:22:01.683 -07:00 [DBG] Start parsing Basic Authentication secret
+2021-06-22 14:22:01.686 -07:00 [DBG] Start parsing for secret in post body
+2021-06-22 14:22:01.688 -07:00 [DBG] Parser found secret: PostBodySecretParser
+2021-06-22 14:22:01.692 -07:00 [DBG] Secret id found: catalogClient
+2021-06-22 14:22:01.797 -07:00 [FTL] Unhandled exception: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+2021-06-22 14:22:01.829 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.MutualTlsEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-22 14:22:13.205 -07:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2021-06-22 14:22:13.210 -07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2021-06-22 14:22:13.213 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2021-06-22 14:22:13.219 -07:00 [DBG] Start discovery request
+2021-06-22 14:22:57.561 -07:00 [DBG] Request path /connect/token matched to endpoint type Token
+2021-06-22 14:22:57.565 -07:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2021-06-22 14:22:57.572 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2021-06-22 14:22:57.581 -07:00 [DBG] Start token request.
+2021-06-22 14:22:57.583 -07:00 [DBG] Start client validation
+2021-06-22 14:22:57.587 -07:00 [DBG] Start parsing Basic Authentication secret
+2021-06-22 14:22:57.589 -07:00 [DBG] Start parsing for secret in post body
+2021-06-22 14:22:57.593 -07:00 [DBG] Parser found secret: PostBodySecretParser
+2021-06-22 14:22:57.598 -07:00 [DBG] Secret id found: catalogClient
+2021-06-22 14:22:57.676 -07:00 [FTL] Unhandled exception: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+2021-06-22 14:22:57.715 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.MutualTlsEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-22 14:23:00.733 -07:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2021-06-22 14:23:00.734 -07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2021-06-22 14:23:00.742 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2021-06-22 14:23:00.747 -07:00 [DBG] Start discovery request
+2021-06-22 14:24:01.742 -07:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2021-06-22 14:24:01.748 -07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2021-06-22 14:24:01.750 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2021-06-22 14:24:01.757 -07:00 [DBG] Start discovery request
+2021-06-22 14:24:02.699 -07:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2021-06-22 14:24:02.704 -07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2021-06-22 14:24:02.707 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2021-06-22 14:24:02.714 -07:00 [DBG] Start discovery request
+2021-06-22 14:24:30.193 -07:00 [DBG] Request path /connect/token matched to endpoint type Token
+2021-06-22 14:24:30.195 -07:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2021-06-22 14:24:30.196 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2021-06-22 14:24:30.196 -07:00 [DBG] Start token request.
+2021-06-22 14:24:30.197 -07:00 [DBG] Start client validation
+2021-06-22 14:24:30.197 -07:00 [DBG] Start parsing Basic Authentication secret
+2021-06-22 14:24:30.200 -07:00 [DBG] Start parsing for secret in post body
+2021-06-22 14:24:30.201 -07:00 [DBG] Parser found secret: PostBodySecretParser
+2021-06-22 14:24:30.203 -07:00 [DBG] Secret id found: catalogClient
+2021-06-22 14:24:30.284 -07:00 [FTL] Unhandled exception: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+2021-06-22 14:24:30.432 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IAsyncQueryProvider can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Repositories.MongoRepository.Single[T](Expression`1 expression) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Repositories\MongoRepository.cs:line 47
+   at IdentityServer.Store.CustomClientStore.FindClientByIdAsync(String clientId) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomClientStore.cs:line 19
+   at IdentityServer4.Stores.IClientStoreExtensions.FindEnabledClientByIdAsync(IClientStore store, String clientId)
+   at IdentityServer4.Validation.ClientSecretValidator.ValidateAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.MutualTlsEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-22 14:31:45.986 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 14:31:46.507 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 14:31:46.509 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 14:31:46.509 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 14:31:46.510 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 14:31:46.510 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 14:31:46.511 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 14:31:51.085 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 14:31:51.088 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 14:31:51.089 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 14:31:51.090 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 14:31:51.090 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 14:31:51.091 -07:00 [DBG] Error Url: /home/error
+2021-06-22 14:31:51.092 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 14:33:23.025 -07:00 [DBG] Request path /connect/token matched to endpoint type Token
+2021-06-22 14:33:23.038 -07:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2021-06-22 14:33:23.039 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2021-06-22 14:33:23.045 -07:00 [DBG] Start token request.
+2021-06-22 14:33:23.050 -07:00 [DBG] Start client validation
+2021-06-22 14:33:23.056 -07:00 [DBG] Start parsing Basic Authentication secret
+2021-06-22 14:33:23.058 -07:00 [DBG] Start parsing for secret in post body
+2021-06-22 14:33:23.066 -07:00 [DBG] Parser found secret: PostBodySecretParser
+2021-06-22 14:33:23.067 -07:00 [DBG] Secret id found: catalogClient
+2021-06-22 14:33:23.318 -07:00 [DBG] Secret validator success: HashedSharedSecretValidator
+2021-06-22 14:33:23.321 -07:00 [DBG] Client validation success
+2021-06-22 14:33:23.343 -07:00 [DBG] Start token request validation
+2021-06-22 14:33:23.490 -07:00 [DBG] Start client credentials token request validation
+2021-06-22 14:33:23.837 -07:00 [FTL] Unhandled exception: The source IQueryable doesn't implement IAsyncEnumerable<IdentityServer4.Models.IdentityResource>. Only sources that implement IAsyncEnumerable can be used for Entity Framework asynchronous operations.
+System.InvalidOperationException: The source IQueryable doesn't implement IAsyncEnumerable<IdentityServer4.Models.IdentityResource>. Only sources that implement IAsyncEnumerable can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AsAsyncEnumerable[TSource](IQueryable`1 source)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Store.CustomResourceStore.FindIdentityResourcesByScopeNameAsync(IEnumerable`1 scopeNames) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomResourceStore.cs:line 49
+   at IdentityServer4.Stores.IResourceStoreExtensions.FindResourcesByScopeAsync(IResourceStore store, IEnumerable`1 scopeNames)
+   at IdentityServer4.Stores.IResourceStoreExtensions.FindEnabledResourcesByScopeAsync(IResourceStore store, IEnumerable`1 scopeNames)
+   at IdentityServer4.Validation.DefaultResourceValidator.ValidateRequestedResourcesAsync(ResourceValidationRequest request)
+   at IdentityServer4.Validation.TokenRequestValidator.ValidateRequestedScopesAsync(NameValueCollection parameters, Boolean ignoreImplicitIdentityScopes, Boolean ignoreImplicitOfflineAccess)
+   at IdentityServer4.Validation.TokenRequestValidator.ValidateClientCredentialsRequestAsync(NameValueCollection parameters)
+   at IdentityServer4.Validation.TokenRequestValidator.RunValidationAsync(Func`2 validationFunc, NameValueCollection parameters)
+   at IdentityServer4.Validation.TokenRequestValidator.ValidateRequestAsync(NameValueCollection parameters, ClientSecretValidationResult clientValidationResult)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+2021-06-22 14:33:23.888 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The source IQueryable doesn't implement IAsyncEnumerable<IdentityServer4.Models.IdentityResource>. Only sources that implement IAsyncEnumerable can be used for Entity Framework asynchronous operations.
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AsAsyncEnumerable[TSource](IQueryable`1 source)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at IdentityServer.Store.CustomResourceStore.FindIdentityResourcesByScopeNameAsync(IEnumerable`1 scopeNames) in D:\Udemy\Microservices Architecture and Implementation on .Net 5\My Version\src\IdentityServer\Store\CustomResourceStore.cs:line 49
+   at IdentityServer4.Stores.IResourceStoreExtensions.FindResourcesByScopeAsync(IResourceStore store, IEnumerable`1 scopeNames)
+   at IdentityServer4.Stores.IResourceStoreExtensions.FindEnabledResourcesByScopeAsync(IResourceStore store, IEnumerable`1 scopeNames)
+   at IdentityServer4.Validation.DefaultResourceValidator.ValidateRequestedResourcesAsync(ResourceValidationRequest request)
+   at IdentityServer4.Validation.TokenRequestValidator.ValidateRequestedScopesAsync(NameValueCollection parameters, Boolean ignoreImplicitIdentityScopes, Boolean ignoreImplicitOfflineAccess)
+   at IdentityServer4.Validation.TokenRequestValidator.ValidateClientCredentialsRequestAsync(NameValueCollection parameters)
+   at IdentityServer4.Validation.TokenRequestValidator.RunValidationAsync(Func`2 validationFunc, NameValueCollection parameters)
+   at IdentityServer4.Validation.TokenRequestValidator.ValidateRequestAsync(NameValueCollection parameters, ClientSecretValidationResult clientValidationResult)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessTokenRequestAsync(HttpContext context)
+   at IdentityServer4.Endpoints.TokenEndpoint.ProcessAsync(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events, IBackChannelLogoutService backChannelLogoutService)
+   at IdentityServer4.Hosting.MutualTlsEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-22 15:17:40.312 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 15:17:40.839 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 15:17:40.840 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 15:17:40.841 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 15:17:40.842 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 15:17:40.842 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 15:17:40.843 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 15:17:46.776 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 15:17:46.779 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 15:17:46.781 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 15:17:46.782 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 15:17:46.783 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 15:17:46.784 -07:00 [DBG] Error Url: /home/error
+2021-06-22 15:17:46.785 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 15:18:06.991 -07:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2021-06-22 15:18:06.995 -07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2021-06-22 15:18:06.996 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2021-06-22 15:18:07.000 -07:00 [DBG] Start discovery request
+2021-06-22 15:18:11.288 -07:00 [DBG] Request path /connect/token matched to endpoint type Token
+2021-06-22 15:18:11.299 -07:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2021-06-22 15:18:11.309 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2021-06-22 15:18:11.327 -07:00 [DBG] Start token request.
+2021-06-22 15:18:11.332 -07:00 [DBG] Start client validation
+2021-06-22 15:18:11.337 -07:00 [DBG] Start parsing Basic Authentication secret
+2021-06-22 15:18:11.342 -07:00 [DBG] Start parsing for secret in post body
+2021-06-22 15:18:11.352 -07:00 [DBG] Parser found secret: PostBodySecretParser
+2021-06-22 15:18:11.356 -07:00 [DBG] Secret id found: catalogClient
+2021-06-22 15:18:11.460 -07:00 [DBG] Secret validator success: HashedSharedSecretValidator
+2021-06-22 15:18:11.461 -07:00 [DBG] Client validation success
+2021-06-22 15:18:11.473 -07:00 [DBG] Start token request validation
+2021-06-22 15:18:11.480 -07:00 [DBG] Start client credentials token request validation
+2021-06-22 15:18:11.857 -07:00 [DBG] catalogClient credentials token request validation success
+2021-06-22 15:18:11.881 -07:00 [INF] Token request validation success, {"ClientId":"catalogClient","ClientName":null,"GrantType":"client_credentials","Scopes":"catalogAPI","AuthorizationCode":"********","RefreshToken":"********","UserName":null,"AuthenticationContextReferenceClasses":null,"Tenant":null,"IdP":null,"Raw":{"grant_type":"client_credentials","scope":"catalogAPI","client_id":"catalogClient","client_secret":"***REDACTED***"},"$type":"TokenRequestValidationLog"}
+2021-06-22 15:18:11.952 -07:00 [DBG] Getting claims for access token for client: catalogClient
+2021-06-22 15:18:12.224 -07:00 [DBG] Token request success.
+2021-06-22 15:24:06.001 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 15:24:06.552 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 15:24:06.554 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 15:24:06.555 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 15:24:06.555 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 15:24:06.556 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 15:24:06.556 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 15:24:09.692 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 15:24:09.695 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 15:24:09.696 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 15:24:09.697 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 15:24:09.698 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 15:24:09.703 -07:00 [DBG] Error Url: /home/error
+2021-06-22 15:24:09.713 -07:00 [DBG] Error Id Parameter: errorId
