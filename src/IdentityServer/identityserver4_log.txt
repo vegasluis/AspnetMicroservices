@@ -710,3 +710,81 @@ System.InvalidOperationException: The source IQueryable doesn't implement IAsync
 2021-06-22 15:24:09.698 -07:00 [DBG] Consent Return Url Parameter: returnUrl
 2021-06-22 15:24:09.703 -07:00 [DBG] Error Url: /home/error
 2021-06-22 15:24:09.713 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 16:32:50.825 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 16:32:51.407 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 16:32:51.408 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 16:32:51.409 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 16:32:51.409 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 16:32:51.410 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 16:32:51.411 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 16:32:55.565 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 16:32:55.568 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 16:32:55.569 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 16:32:55.570 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 16:32:55.575 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 16:32:55.578 -07:00 [DBG] Error Url: /home/error
+2021-06-22 16:32:55.580 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 16:34:13.898 -07:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2021-06-22 16:34:13.904 -07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2021-06-22 16:34:13.909 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2021-06-22 16:34:13.919 -07:00 [DBG] Start discovery request
+2021-06-22 16:34:14.392 -07:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2021-06-22 16:34:14.400 -07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2021-06-22 16:34:14.407 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2021-06-22 16:34:14.414 -07:00 [DBG] Start key discovery request
+2021-06-22 16:34:28.182 -07:00 [DBG] Request path /connect/token matched to endpoint type Token
+2021-06-22 16:34:28.190 -07:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2021-06-22 16:34:28.194 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2021-06-22 16:34:28.204 -07:00 [DBG] Start token request.
+2021-06-22 16:34:28.207 -07:00 [DBG] Start client validation
+2021-06-22 16:34:28.215 -07:00 [DBG] Start parsing Basic Authentication secret
+2021-06-22 16:34:28.218 -07:00 [DBG] Start parsing for secret in post body
+2021-06-22 16:34:28.225 -07:00 [DBG] Parser found secret: PostBodySecretParser
+2021-06-22 16:34:28.225 -07:00 [DBG] Secret id found: catalogClient
+2021-06-22 16:34:28.326 -07:00 [DBG] Secret validator success: HashedSharedSecretValidator
+2021-06-22 16:34:28.327 -07:00 [DBG] Client validation success
+2021-06-22 16:34:28.340 -07:00 [DBG] Start token request validation
+2021-06-22 16:34:28.346 -07:00 [DBG] Start client credentials token request validation
+2021-06-22 16:34:28.446 -07:00 [DBG] catalogClient credentials token request validation success
+2021-06-22 16:34:28.467 -07:00 [INF] Token request validation success, {"ClientId":"catalogClient","ClientName":null,"GrantType":"client_credentials","Scopes":"catalogAPI","AuthorizationCode":"********","RefreshToken":"********","UserName":null,"AuthenticationContextReferenceClasses":null,"Tenant":null,"IdP":null,"Raw":{"grant_type":"client_credentials","scope":"catalogAPI","client_id":"catalogClient","client_secret":"***REDACTED***"},"$type":"TokenRequestValidationLog"}
+2021-06-22 16:34:28.521 -07:00 [DBG] Getting claims for access token for client: catalogClient
+2021-06-22 16:34:28.660 -07:00 [DBG] Token request success.
+2021-06-22 17:02:54.703 -07:00 [INF] Starting IdentityServer4 version 4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e
+2021-06-22 17:02:55.241 -07:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2021-06-22 17:02:55.242 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2021-06-22 17:02:55.242 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2021-06-22 17:02:55.242 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2021-06-22 17:02:55.243 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2021-06-22 17:02:55.243 -07:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2021-06-22 17:03:03.332 -07:00 [DBG] Login Url: /Account/Login
+2021-06-22 17:03:03.335 -07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2021-06-22 17:03:03.336 -07:00 [DBG] Logout Url: /Account/Logout
+2021-06-22 17:03:03.336 -07:00 [DBG] ConsentUrl Url: /consent
+2021-06-22 17:03:03.337 -07:00 [DBG] Consent Return Url Parameter: returnUrl
+2021-06-22 17:03:03.340 -07:00 [DBG] Error Url: /home/error
+2021-06-22 17:03:03.342 -07:00 [DBG] Error Id Parameter: errorId
+2021-06-22 17:03:23.309 -07:00 [DBG] Request path /connect/token matched to endpoint type Token
+2021-06-22 17:03:23.330 -07:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2021-06-22 17:03:23.333 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2021-06-22 17:03:23.346 -07:00 [DBG] Start token request.
+2021-06-22 17:03:23.355 -07:00 [DBG] Start client validation
+2021-06-22 17:03:23.363 -07:00 [DBG] Start parsing Basic Authentication secret
+2021-06-22 17:03:23.369 -07:00 [DBG] Start parsing for secret in post body
+2021-06-22 17:03:23.379 -07:00 [DBG] Parser found secret: PostBodySecretParser
+2021-06-22 17:03:23.381 -07:00 [DBG] Secret id found: catalogClient
+2021-06-22 17:03:23.628 -07:00 [DBG] Secret validator success: HashedSharedSecretValidator
+2021-06-22 17:03:23.629 -07:00 [DBG] Client validation success
+2021-06-22 17:03:23.645 -07:00 [DBG] Start token request validation
+2021-06-22 17:03:23.652 -07:00 [DBG] Start client credentials token request validation
+2021-06-22 17:03:23.759 -07:00 [DBG] catalogClient credentials token request validation success
+2021-06-22 17:03:23.778 -07:00 [INF] Token request validation success, {"ClientId":"catalogClient","ClientName":null,"GrantType":"client_credentials","Scopes":"catalogAPI","AuthorizationCode":"********","RefreshToken":"********","UserName":null,"AuthenticationContextReferenceClasses":null,"Tenant":null,"IdP":null,"Raw":{"grant_type":"client_credentials","scope":"catalogAPI","client_id":"catalogClient","client_secret":"***REDACTED***"},"$type":"TokenRequestValidationLog"}
+2021-06-22 17:03:23.859 -07:00 [DBG] Getting claims for access token for client: catalogClient
+2021-06-22 17:03:23.985 -07:00 [DBG] Token request success.
+2021-06-22 17:03:36.740 -07:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2021-06-22 17:03:36.743 -07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2021-06-22 17:03:36.749 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2021-06-22 17:03:36.759 -07:00 [DBG] Start discovery request
+2021-06-22 17:03:37.097 -07:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2021-06-22 17:03:37.104 -07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2021-06-22 17:03:37.111 -07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2021-06-22 17:03:37.120 -07:00 [DBG] Start key discovery request
